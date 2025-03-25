@@ -1,4 +1,4 @@
-# Human Face Generation with DCGANs in PyTorch
+# Rostro-AI
 
 This project demonstrates how to train a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch to generate images of human faces.
 
